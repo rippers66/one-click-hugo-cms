@@ -1,45 +1,13 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/about-header-jt.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Value 1"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Reprehenderit consequat sit laboris fugiat. Irure Lorem excepteur amet duis irure. Dolore nostrud excepteur proident ea anim sint. Nulla consectetur Lorem in enim Lorem ipsum nostrud ipsum sit sint. Lorem proident minim commodo eu ullamco. Aute proident veniam aliquip velit eu do eiusmod nostrud sunt. Nulla cupidatat laboris esse ullamco id sit.
+    imageUrl: "/img/about-image1.jpg"
+  - heading: "Value 2"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Do sit adipisicing aute sint. Quis non et excepteur anim nostrud officia aliqua consequat duis ut deserunt qui. Ad ut labore cillum ex incididunt dolore ut duis ea laborum sint labore. Tempor cupidatat culpa culpa nisi sunt sit eiusmod commodo officia. Veniam dolor dolore dolor cupidatat fugiat dolor commodo nulla minim deserunt.
+    imageUrl: "/img/about-image2.jpg"
 ---
