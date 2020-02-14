@@ -1,7 +1,7 @@
 ---
 title: Take Control of your Data
 subtitle: Ensure that it's where it needs to be to make your business run smoothly.
-image: img/logo.svg
+image: img/about-header-jt.jpg
 blurb:
   heading: Why Data Movers?
   text: Why indeed...
